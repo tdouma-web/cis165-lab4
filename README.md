@@ -18,8 +18,8 @@
 
 | *Program* | *Values used* | *Expected result* | *Actual output* | *Match* |
 | ----- | ----- | ----- | ----- | ----- |
-| average.cpp (assigned) | 28, 32, 37, 24, 33 | Sum: 154, Avg: 30.8 | [Insert Actual] | [Insert Match] |
-| average.cpp (changed) | 10, 15, 20, 25, 33 | Sum: 103, Avg: 20.6 | [Insert Actual] | [Insert Match] |
+| average.cpp (assigned) | 28, 32, 37, 24, 33 | Sum: 154, Avg: 30.8 | Sum: 154, Avg: 30.8 | yes |
+| average.cpp (changed) | 10, 15, 20, 25, 33 | Sum: 103, Avg: 20.6 | Sum: 103, Avg: 20.6  | yes |
 | ocean_levels.cpp (assigned) | 1.5 rate | 5yr: 7.5, 7yr: 10.5, 10yr: 15 | 5yr: 7.5, 7yr: 10.5, 10yr: 15 | Yes 
 | ocean_levels.cpp (changed) | 2.5 rate | 5yr: 12.5, 7yr: 17.5, 10yr: 25 | 5yr: 12.5, 7yr: 17.5, 10yr: 25 | yes |
 
